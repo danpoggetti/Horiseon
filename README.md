@@ -17,9 +17,6 @@ GitHub is where the updated files are published.
 ## Visuals
 <img src="/assets/images/screenshot_before_after.jpg" alt="before showing html code provided and after showing modifications>
 
-## Changes
-
-
 ## License
 MIT License
 
