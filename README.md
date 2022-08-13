@@ -9,10 +9,11 @@ This project is inteneded to refactor the code to make it accessible and improve
 [License](#license)
 
 ## Installation
-You can view files using Visual Studio Code on your terminal or computer.
-VS Code was used to make edits to the HTML and CSS files.
-GitBash was used to push the files to the repository.
-GitHub is where the updated files are published.
+You can view files using Visual Studio Code on your terminal or computer.<br>
+VS Code was used to make edits to the HTML and CSS files.<br>
+GitBash was used to push the files to the repository.<br>
+GitHub is where the updated files are published.<br>
+Live view of deployed website: https://danpoggetti.github.io/Horiseon/ <br>
 
 ## Visuals
 <img src="/assets/images/screenshot_before_after.jpg" alt="before showing html code provided and after showing modifications>
