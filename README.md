@@ -5,7 +5,7 @@ This project is inteneded to refactor the code to make it accessible and improve
 
 ## Table of Contents
 [Installation](#installation)
-[Visuals](#visuals)
+[Screenshot](#screenshot)
 [License](#license)
 
 ## Installation
@@ -16,8 +16,11 @@ GitHub is where the updated files are published.<br>
 Live view of deployed website: https://danpoggetti.github.io/Horiseon/ <br>
 Repository website: https://github.com/danpoggetti <br>
 
-## Visuals
-<img src="/assets/images/screenshot_before_after.jpg" alt="before showing html code provided and after showing modifications>
+## Screenshot
+Here's a screenshot showing a before vs. after comparison of code.<br>
+![](./assets/images/screenshot_before_after.jpg) <br>
+Here's a screenshot showing a live view of the deployed website.<br>
+![](./assets/images/screen-shot.jpg)
 
 ## License
 MIT License
